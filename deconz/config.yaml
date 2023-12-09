@@ -7,9 +7,6 @@ description: >-
 url: https://github.com/home-assistant/addons/tree/master/deconz
 apparmor: false
 arch:
-  - amd64
-  - armhf
-  - aarch64
   - armv7
 backup_exclude:
   - "*/otau"
